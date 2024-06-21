@@ -44,7 +44,7 @@ Got feedback or suggestions? We'd love to hear from you. Open an issue or reach 
 
 ## Deployment:
 
-Upload the repository on github. Connect your netlify and github account. Then finally deploy this repo.
+Upload your repository to GitHub. Connect your Netlify account to your GitHub account, and then deploy the repository using Netlify.
 
 ## Acknowledgments
 
