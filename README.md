@@ -1,6 +1,6 @@
 # AlgoZenith WebDev Hackathon: CodeQuest
 
-Check out the live version of CodeQuest at 
+Check out the live version of CodeQuest at https://codequest1629.netlify.app/
 
 Welcome to CodeQuest, a project developed for the AlgoZenith WebDev Hackathon! 🚀
 
