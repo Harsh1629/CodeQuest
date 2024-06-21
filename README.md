@@ -42,6 +42,10 @@ Contributions are welcome! Whether you're a developer, designer, or algorithm en
 
 Got feedback or suggestions? We'd love to hear from you. Open an issue or reach out to us.
 
+## Deployment:
+
+Upload the repository on github. Connect your netlify and github account. Then finally deploy this repo.
+
 ## Acknowledgments
 
 CodeQuest was developed for the AlgoZenith WebDev Hackathon. Special thanks to the organizers and fellow participants for the inspiration and support.
